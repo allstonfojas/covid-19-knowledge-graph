@@ -1,0 +1,13 @@
+name: covid-19-knowledge-graph 
+
+channels:
+  - conda-forge
+  - anaconda
+
+dependencies:
+  - python>=3.8
+  - jupyterlab=2.1.1
+  - pandas
+  - numpy
+  - pycountry
+  - geopy
