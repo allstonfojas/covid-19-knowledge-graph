@@ -1,4 +1,4 @@
-pandas==1.0.1
-numpy==1.18.1
-pycountry==19.8.18
-geopy==1.19.0
+pandas
+numpy
+pycountry
+geopy
